@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NoueiliL
-- 👀 I’m interested in Dital transformation
+- 👀 I’m interested in Digital transformation
 - 🌱 I’m currently learning on "Machine Learning"
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me ...
